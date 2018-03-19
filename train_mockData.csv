@@ -1,0 +1,231 @@
+city;country_id;street;zip
+Dresden;81;Adlergasse;1067
+Dresden;81;Alfred-Althus-Str.;1067
+Dresden;81;Altmarkt;1067
+Dresden;81;Am Bramschkontor;1067
+Dresden;81;Am Queckbrunnen;1067
+Dresden;81;Am Schießhaus;1067
+Dresden;81;Am See;1067
+Dresden;81;Am Zwingerteich;1067
+Dresden;81;Ammonstr.;1067
+Dresden;81;An der Frauenkirche;1067
+Dresden;81;An der Herzogin Garten;1067
+Dresden;81;An der Kreuzkirche;1067
+Dresden;81;An der Mauer;1067
+Dresden;81;Annenstr.;1067
+Dresden;81;Antonsplatz;1067
+Dresden;81;Augustusstr.;1067
+Dresden;81;Behringstr.;1067
+Dresden;81;Berliner Str.;1067
+Dresden;81;Bernhard-von-Lindenau-Platz;1067
+Dresden;81;Bräuergasse;1067
+Dresden;81;Bremer Str.;1067
+Dresden;81;Brühlsche Gasse;1067
+Dresden;81;Brühlsche Terrasse;1067
+Dresden;81;Brühlscher Garten;1067
+Dresden;81;Devrientstr.;1067
+Dresden;81;Dr.-Külz-Ring;1067
+Dresden;81;Ehrlichstr.;1067
+Dresden;81;Ermischstr.;1067
+Dresden;81;Falkenstr.;1067
+Dresden;81;Feigengasse;1067
+Dresden;81;Frauenstr.;1067
+Dresden;81;Freiberger Platz;1067
+Dresden;81;Freiberger Str.;1067
+Dresden;81;Friedrichstr.;1067
+Dresden;81;Friesengasse;1067
+Dresden;81;Galeriestr.;1067
+Dresden;81;Georg-Treu-Platz;1067
+Dresden;81;Gewandhausstr.;1067
+Dresden;81;Grüne Str.;1067
+Dresden;81;Güterbahnhofstr.;1067
+Dresden;81;Hamburger Str.;1067
+Dresden;81;Hasenberg;1067
+Dresden;81;Herbert-Wehner-Platz;1067
+Dresden;81;Hertha-Lindner-Str.;1067
+Dresden;81;Urnenfeldweg;1109
+Dresden;81;Valeria-Kratina-Weg;1109
+Dresden;81;Vogelstellerweg;1109
+Dresden;81;Volkersdorfer Sandweg;1109
+Dresden;81;Volkersdorfer Weg;1109
+Dresden;81;Vorerlenweg;1109
+Dresden;81;Waldhofstr.;1109
+Dresden;81;Waldpark;1109
+Dresden;81;Waldteichstr.;1109
+Dresden;81;Warnemünder Str.;1109
+Dresden;81;Wiesensteig;1109
+Dresden;81;Wilhelm-Külz-Str.;1109
+Dresden;81;Wilhelmine-Reichard-Ring;1109
+Dresden;81;Bühlauer Str.;1328
+Dresden;81;Chrysanthemenweg;1328
+Dresden;81;Cunnersdorfer Str.;1328
+Radebeul;81;Straken;1445
+Radebeul;81;Straße der Jugend;1445
+Radebeul;81;Straße des Friedens;1445
+Radebeul;81;Südstr.;1445
+Radebeul;81;Talkenbergweg;1445
+Radebeul;81;Tännichtweg;1445
+Radebeul;81;Terrassenstr.;1445
+Radebeul;81;Thalheimstr.;1445
+Radebeul;81;Thomas-Mann-Str.;1445
+Berlin;81;Sonnenallee;12489
+Berlin;81;Steinbachstr.;12489
+Berlin;81;Stienitzseestr.;12489
+Berlin;81;Süßer Grund;12489
+Berlin;81;Thelenstr.;12489
+Berlin;81;Thomas-Müntzer-Str.;12489
+Berlin;81;Vimystr.;12489
+Berlin;81;Vogelbeerstr.;12489
+Berlin;81;Volmerstr.;12489
+Berlin;81;Wagner-Regeny-Str.;12489
+Berlin;81;Waldstr.;12489
+Berlin;81;Walther-Nernst-Str.;12489
+Berlin;81;Wassermannstr.;12489
+Berlin;81;Weerthstr.;12489
+Berlin;81;Wernerweg;12489
+Berlin;81;Wilhelm-Hoff-Str.;12489
+Berlin;81;Wilhelm-Ostwald-Str.;12489
+Berlin;81;Willi-Schwabe-Str.;12489
+Berlin;81;Wolfgang-Liebe-Str.;12489
+Berlin;81;Wünschelburger Gang;12489
+Berlin;81;Zinsgutstr.;12489
+Berlin;81;Zum Großen Windkanal;12489
+Berlin;81;Zum Trudelturm;12489
+Berlin;81;Zur Holzoper;12489
+Berlin;81;Agnes-Hacker-Str.;12524
+Schorfheide;81;Zum Sportplatz;16244
+Althüttendorf;81;Am Grimnitzsee;16247
+Althüttendorf;81;Angermünder Str.;16247
+Althüttendorf;81;Bahnhofstr.;16247
+Althüttendorf;81;Dorfstr.;16247
+Althüttendorf;81;Friedrich Baumann Siedlung;16247
+Althüttendorf;81;Glasstr.;16247
+Althüttendorf;81;Kellerberg;16247
+Althüttendorf;81;Miens Glück;16247
+Althüttendorf;81;Neue Dorfstr.;16247
+Althüttendorf;81;Neugrimnitzer Str.;16247
+Althüttendorf;81;Wiesenweg;16247
+Althüttendorf;81;Ziethener Weg;16247
+Althüttendorf;81;Zu den Ihlowbergen;16247
+Friedrichswalde;81;Ahlimswalder Weg;16247
+Friedrichswalde;81;Am Seeberg;16247
+Friedrichswalde;81;Angermünder Str.;16247
+Friedrichswalde;81;Bahnhofstr.;16247
+Friedrichswalde;81;Döllner Str.;16247
+Friedrichswalde;81;Dorfstr.;16247
+Friedrichswalde;81;Glambecker Str.;16247
+Friedrichswalde;81;Havensteinscher Weg;16247
+Friedrichswalde;81;Hof;16247
+Friedrichswalde;81;Holzschuhmacher Weg;16247
+Friedrichswalde;81;Honiggasse;16247
+Friedrichswalde;81;Joachimsthaler Str.;16247
+Friedrichswalde;81;Reiersdorfer Str.;16247
+Friedrichswalde;81;Ringenwalder Str.;16247
+Friedrichswalde;81;Schmelzer Str.;16247
+Friedrichswalde;81;Seestr.;16247
+Franzburg;81;Am Wallgraben;18461
+Franzburg;81;An den Seewiesen;18461
+Franzburg;81;An der Gärtnerei;18461
+Franzburg;81;An der Promenade;18461
+Franzburg;81;An der Tankstelle;18461
+Franzburg;81;Brunststr.;18461
+Franzburg;81;Dorfstr.;18461
+Franzburg;81;Eichholzer Weg;18461
+Franzburg;81;Ernst-Thälmann-Str.;18461
+Franzburg;81;Garthofstr.;18461
+Franzburg;81;Geskestr.;18461
+Born;81;Am Koppelstrom;18375
+Born;81;Am Wald;18375
+Born;81;An de Bäk;18375
+Born;81;An der Grabenwiese;18375
+Born;81;An der Schule;18375
+Born;81;Auf dem Branden;18375
+Born;81;Auf dem Ende;18375
+Born;81;Auf dem Schagen;18375
+Born;81;Bäckergang;18375
+Born;81;Bäderstr.;18375
+Born;81;Bernsteinweg;18375
+Hamburg;81;Rutschbahn;20146
+Hamburg;81;Schlüterstr.;20146
+Hamburg;81;Schröderstiftstr.;20146
+Hamburg;81;Schröderstiftweg;20146
+Hamburg;81;Sedanstr.;20146
+Hamburg;81;Böttgerstr.;20148
+Hamburg;81;Brodersweg;20148
+Hamburg;81;Fährdamm;20148
+Hamburg;81;Feldbrunnenstr.;20148
+Hamburg;81;Alfred-Beit-Weg;20149
+Hamburg;81;Alsterchaussee;20149
+Hamburg;81;Alsterkamp;20149
+Hamburg;81;Frauenthal;20149
+Hamburg;81;Alte Holstenstr.;21031
+Hamburg;81;Am Beckerkamp;21031
+Hamburg;81;Am Blumenhof;21031
+Hamburg;81;Am Hirtenland;21031
+Hamburg;81;An der Bergkoppel;21031
+Hamburg;81;An der Twiete;21031
+Hamburg;81;Anne-Becker-Ring;21031
+Bremen;81;Zum Birkenhof;28759
+Bremen;81;Zum Fichtenhof;28759
+Bremen;81;Alte Str.;28777
+Bielefeld;81;Wilhelm-Busch-Str.;33604
+Bielefeld;81;Wilhelm-Raabe-Str.;33604
+Bielefeld;81;Allensteiner Str.;33605
+Göttingen;81;Hertha-Sponer-Str.;37079
+Göttingen;81;Hetjershäuser Weg;37079
+Göttingen;81;Hirtenweg;37079
+Göttingen;81;Hofbreite;37079
+Göttingen;81;Hagenweg;37081
+Göttingen;81;Hainichenweg;37081
+Göttingen;81;Hartjenanger;37081
+Dortmund;81;Auf dem Steine;44143
+Dortmund;81;Am Geenseel;44263
+Dortmund;81;Am Grimmelsiepen;44263
+Dortmund;81;Am Heedbrink;44263
+Köln;81;Esserstr.;51105
+Köln;81;Feldbergstr.;51105
+Köln;81;Flammersfelder Str.;51105
+Köln;81;Winkelsmaar;51147
+Köln;81;Zu den Wiesen;51147
+Köln;81;Zum Alten Paulshof;51147
+Köln;81;Zum Bergfried;51147
+Köln;81;Adrian-Kiels-Str.;51149
+Köln;81;Aggerweg;51149
+Stuttgart;81;Stammheimer Str.;70439
+Stuttgart;81;Syltstr.;70439
+Stuttgart;81;Tafelweg;70439
+Stuttgart;81;Nevadastr.;70569
+Stuttgart;81;Nobelstr.;70569
+München;81;Welfenstr.;81541
+München;81;Wendelsteinstr.;81541
+München;81;Werinherstr.;81541
+München;81;Zeppelinstr.;81541
+München;81;Zugspitzstr.;81541
+München;81;Agilolfingerplatz;81543
+München;81;Agilolfingerstr.;81543
+München;81;Albrecht-Dürer-Str.;81543
+München;81;Alemannenstr.;81543
+München;81;Am Mühlbach;81543
+München;81;Arminiusstr.;81543
+München;81;Birkenau;81543
+München;81;Birkenleiten;81543
+München;81;Brehmstr.;81543
+München;81;Candidplatz;81543
+München;81;Candidstr.;81543
+München;81;Däumlingstr.;81739
+Bad Buchau;81;Wellerstr.;88422
+Bad Buchau;81;Wielandstr.;88422
+Bad Buchau;81;Wuhrstr.;88422
+Bad Buchau;81;Zehntscheuerstr.;88422
+Betzenweiler;81;Alleshauser Str.;88422
+Betzenweiler;81;Am Mühlbach;88422
+Betzenweiler;81;Bauhofweg;88422
+Betzenweiler;81;Offinger Str.;88422
+Betzenweiler;81;Pfarrgasse;88422
+Betzenweiler;81;Reckstr.;88422
+Uttenweiler;81;Abt-Edmund-Str.;88524
+Uttenweiler;81;Abt-Ulrich-Str.;88524
+Uttenweiler;81;Adelindisstr.;88524
+Riedlingen;81;Grüninger Weg;88499
+Riedlingen;81;Gundelfingerstr.;88499
+Riedlingen;81;Haldenrain;88499
