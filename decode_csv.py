@@ -3,7 +3,11 @@ import pandas as pd
 import numpy as np
 import sys
 import csv
-
+import tflearn
+import random
+import json
+import string
+import unicodedata
 ###################Data Load and Pre-processing
 categories = []
 docs = []
@@ -56,4 +60,22 @@ trainig = np.array(trainig)
 #trainX contains the Bag of words and trainY contains the label/ category
 train_x=list(trainig[:,0])
 train_y=list(trainig[:,1])
-print(train_y)
+print(train_x)
+#####Text Classification#####
+
+#reset underlying graph data
+tf.reset_default_graph()
+#Build neural Network
+
+net = tflearn.input_data(shape=[None, len(train_x[0])])
+net = tflearn.fully_connected(net, 8)
+net = tflearn.fully_connected(net, 8)
+net = tflearn.fully_connected(net, len(train_y[0]), activation='softmax')
+net = tflearn.regression(net)
+
+#Define Model and setup tensorboard
+model = tflearn.DNN(net, tensorboard_dir='tflearn_logs')
+#Start training (apply gradient decent algorithm)
+model.fit(train_x, train_y, n_epoch=1000, batch_size=8, show_metric=True)
+
+#############################Testing the tensorflow Text Classification##############
